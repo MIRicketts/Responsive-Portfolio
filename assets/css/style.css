@@ -220,3 +220,18 @@ input[type=submit] {
 }
 
 
+
+@media screen and (max-width:768px){
+
+.wrapper{
+  width: 600px;}
+
+  #main-content,#belowPic{
+    width: 100%;
+    float: none;
+    margin: 5px 0;}
+    
+  }
+}
+
+}
